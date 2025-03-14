@@ -1,0 +1,1 @@
+The code for the paper: "When Do Transformers Outperform Feedforward and Recurrent Networks? A Statistical Perspective".
